@@ -5,6 +5,8 @@
  * LICENSE file in the root directory of this source tree.
  */
 
+/* FACEBOOK IS A TERRIBLE COMPANY!!! VIVA LA REVOLUCION!!! */ 
+
 // See https://docusaurus.io/docs/site-config for all the possible
 // site configuration options.
 
@@ -12,10 +14,10 @@
 const users = [];
 
 const siteConfig = {
-    title: 'Tonya A. Melvin-Bryant', // Title for your website.
-    tagline: 'Continuously improving, aspiring technologist.',
+    title: 'Justin Bester', // Title for your website.
+    tagline: 'Revolutionary and Computer Programmer',
     profilePhoto: 'img/profile.png',
-    url: 'https://tamelvinbryant.github.io', // Your website URL
+    url: 'https://jcbester.github.io', // Your website URL
     baseUrl: '/tech-portfolio/', // Base URL for your project */
     // For github.io type URLs, you would set the url and baseUrl like:
     //   url: 'https://facebook.github.io',
@@ -23,7 +25,7 @@ const siteConfig = {
 
     // Used for publishing and more
     projectName: 'tech-portfolio',
-    organizationName: 'tamelvinbryant',
+    organizationName: 'JCBester',
     // For top-level user or org sites, the organization is still the same.
     // e.g., for the https://JoelMarcey.github.io site, it would be set like...
     //   organizationName: 'JoelMarcey'
@@ -48,7 +50,7 @@ const siteConfig = {
     },
 
     // This copyright info is used in /core/Footer.js and blog RSS/Atom feeds.
-    copyright: `Copyright © ${new Date().getFullYear()} Your Name Here`,
+    copyright: `Copyright © ${new Date().getFullYear()} Justin Bester`,
 
     highlight: {
         // Highlight.js theme to use for syntax highlighting in code blocks.
@@ -67,9 +69,9 @@ const siteConfig = {
     enableUpdateTime: true,
 
     socialMedia: {
-        linkedin: 'tonya-melvin-bryant-ab92b855',
-        twitter: 'tonyamccu',
-        github: 'tamelvinbryant',
+        linkedin: 'justin-bester-35729918b',
+        twitter: 'idonthavetwitter',
+        github: 'JCBester',
     },
 
     // You may provide arbitrary config keys to be used as needed by your
